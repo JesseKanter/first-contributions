@@ -8,6 +8,7 @@
   [Robert Bohn] (https://github.com/RobertBohn)
   [Jack Corley] (https://github.com/Jdcorley)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
+- [Jesse Kanter] (https://github.com/JesseKanter)
 - Gilbert Mwimba
 - [Beyarkay](https://github.com/beyarkay)
 - [Gaurav Karum](https://github.com/gaurav-karum)
